@@ -15,18 +15,9 @@ Sou estudante de Ciência de Dados na FIAP e um entusiasta de tecnologia, sempre
  <a href="https://instagram.com/goliveirap" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/pqpaixao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=giovannyp2&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
 
 
-</p>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giovannyp2&label=Profile%20views&color=0e75b6&style=flat" alt="giovannyp2" /> </p>
